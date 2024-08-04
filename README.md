@@ -4,10 +4,10 @@ You can check or change the admin panel username and password in the app.py file
 Set Up the Email System for the customers to have Welcome mail and forget password management.
 
 How to setup Email system:
-Create and Activate Virtual Environment (optional):
-Install Dependencies:
-Configure SMTP Settings in app.py
-Set Environment Variables (optional for security)
+Create and Activate Virtual Environment (optional),
+Install Dependencies,
+Configure SMTP Settings in app.py,
+Set Environment Variables (optional for security).
 
 You are good to go, now Run the Application.
 
